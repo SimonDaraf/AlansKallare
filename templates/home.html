@@ -1,0 +1,25 @@
+<fieldset>
+    <legend class="titel">Alans Källare</legend>
+
+    <form name='karForm' novalidate>
+      <div>
+        <input type="text" name="namn" placeholder="f&ouml;rnamn" ng-model="kar.name"
+          required
+          minlength="1"> 
+      </div>
+
+      <div>
+        <input type="text" name="efternamn" placeholder="efternamn" ng-model="kar.lastname"
+          required
+          minlength="1">
+      </div>
+  </form>
+
+    <div class="karButton">
+      <button ui-sref="character({name: kar.name + kar.lastname})" ng-disabled="karForm.$invalid" ng-click="kar.submit()">Generera Karakt&auml;r</button>
+    </div>
+
+    <div class="version">
+        {{kar.version}}
+    </div>
+</fieldset>

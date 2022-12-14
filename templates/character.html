@@ -1,0 +1,19 @@
+<div ng-if="kar.completed">
+    <fieldset>
+      <legend class="titel"> {{ kar.name }}  {{ kar.lastname }} </legend>
+        <div class="karInfo">
+            Syssla: {{ kar.character.syssla }} <br>
+            Hobby: {{ kar.character.hobby }} <br>
+            Handikapp: {{ kar.character.handikapp }} <br>
+            Etnicitet: {{ kar.character.etnicitet }} <br>
+            Religion: {{ kar.character.religion }}
+        </div>
+
+        <div class="version">
+            {{ kar.version }}
+        </div>
+    </fieldset>
+    <div class="karDesc">
+        {{ kar.character.beskrivning }}
+    </div>
+</div>

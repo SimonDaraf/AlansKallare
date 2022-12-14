@@ -1,0 +1,51 @@
+body {
+  font-size: 1em;
+}
+input {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+button {
+  font-size: 20px;
+}
+
+.titel {
+  font-size: 36px;
+}
+
+.align {
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.karInfo {
+  font-size: 20px;
+}
+
+.karDesc {
+  margin-top: 15px;
+  font-size: 15px;
+  font-style: italic;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+}
+
+.version {
+  margin-top: 7px;
+  font-size: 12px;
+  font-style: italic;
+}
+
+.ng-touched.ng-valid {
+  border: 2px green solid;
+}
+
+.ng-touched.ng-invalid {
+  border: 2px red solid;
+}
+
+#info {
+  margin-top: 20px;
+}
