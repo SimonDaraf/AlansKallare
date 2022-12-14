@@ -10,7 +10,7 @@
     function KarController(KarService) {
         var kar = this;
         kar.character = {};
-        kar.version = "1.0.0";
+        kar.version = "1.0.1";
 
         kar.submit = function() {
             kar.completed = true;
