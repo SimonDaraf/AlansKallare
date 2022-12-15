@@ -1,0 +1,350 @@
+{
+    "sysslor" : [
+        {
+            "namn" : "A-Lagare",
+            "beskrivning" : "Är perfekta för strider, de har bra styrka, vigör och kroppsmassa. De är duktiga på att ta skit och att skrämma bort andar.",
+            "prompt" : "Male alcoholic drinking beer on a bench in the rain"
+        },
+        {
+            "namn" : "Discord Kitten",
+            "beskrivning" : "Discord Kitten är en person som spenderar sitt liv på att prata med folk online, för att sedan lägga sig i deras kärleksförhållanden. Detta blir ofta ett jobb som tar över ens hela liv.",
+            "prompt" : "Male chatting on computer"
+        },
+        {
+            "namn" : "Elektriker",
+            "beskrivning" : "Elektriker är en sysselsättning som handlar om att koppla ihop kretsar med hjälp av elektricitet. Detta är en sysselsättning som ofta går ut på att koppla ihop ett el-nät och sedan koppla igenom el på olika sätt.",
+            "prompt" : "Male electrician working with wires"
+        },
+        {
+            "namn" : "Rikemansbarn",
+            "beskrivning" : "Rikemansbarn är en person som är rik, och har rika föräldrar. De blir ofta en skurk som stjäl pengar och har en dålig attityd. De gillar att bryta lagar, och de älskar att jävlas med oss vanliga människor.",
+            "prompt" : "rich male walking in nice area"
+        },
+        {
+            "namn" : "Hemlös",
+            "beskrivning" : "Hemlös är när en person som är svält, och bor i en källare och inte har några egna kläder eller pengar. De har inget jobb, och de gör inget annat än att sova och knarka i en källare. Detta blir ofta ett jobb som tar över ens hela liv.",
+            "prompt" : "Homeless male walking alone in deserted city"
+        },
+        {
+            "namn" : "Guerilla-Kommando",
+            "beskrivning" : "Guerilla-kommando är en ledare över en grupp som krigar för blodsdiamanter i Afrika. De gör detta med hjälp av mina vapen och mitt knark. Guerilla-kommandon är en riktigt farlig person, som alltid har sina vapen med sig.",
+            "prompt" : "Male african warrior"
+        },
+        {
+            "namn" : "Chaffis",
+            "beskrivning" : "Chaffis är en personen som kör en lastbil och levererar till folk. När en chaffis kör för fort så blir andra bilister arga, och det kan bli en liten kamp om vem som har rätt. Chaffis älskar att köra, och de kör often fort och snabbt och med farliga lastbilar.",
+            "prompt" : "Male chauffeur in car"
+        },
+        {
+            "namn" : "P.T",
+            "beskrivning" : "P.T. är personliga tränare som hjälper sina klienter genom vått och tort (tills du har slut på pengar. Din PT är alltid med dig (så länge du har pengar), för vi är vänner för alltid (tills du har slut på pengar. P.T. är som en familjemedlem (tills pengarna tar slut).",
+            "prompt" : "Male going to the gym"
+        },
+        {
+            "namn" : "TaxiChaufför",
+            "beskrivning" : "Det finns egentligen två sorters taxichaufförer: vanliga taxichaufförer, och taxichaufförer med rök. Vanliga taxichaufförer är vanliga människor som kör dig till platsen du behöver åka till. Taxichaufförer med rök är egentligen taxichaufförer, men så fort du frågar om taxichauffören har rök blir det en riktigt mörk affär…",
+            "prompt" : "Male taxi driver"
+        },
+        {
+            "namn" : "Orten-vakt",
+            "beskrivning" : "Orten-vakt har ett väldigt speciellt jobb. Det jobbet går ut på att veta allt som sker i orten för att få en helhetsbild av vad som sker. Oerhört tunga jobb, som gör att man alltid är på vakt och aldrig sover. Vissa orten-vakter blir till slut så mentalt sjuka att de begår självmord, vilket är ett riktigt tråkigt problem inom arbetet...",
+            "prompt" : "Male with baggy clothes and mask over face, holding a knife"
+        },
+        {
+            "namn" : "Langare",
+            "beskrivning" : "En langare är egentligen någon som försöker langa dig droger eller smuggelgods. Om man är en bra langare så får man många kunder. Det finns även vissa langare som blir polis samtidigt, vilket skapar en väldigt intressant situation.",
+            "prompt" : "Creepy male smoking a joint"
+        },
+        {
+            "namn" : "Butiksmedarbetare",
+            "beskrivning" : "Du kan tro att sysselsättningen 'butiksmedarbetare' är en väldigt normal sysselsättning. Men så fort man kliver in i butiken kan man märka att alla butiksmedarbetare är fulla av smuts, knark, alkohol och rasism. Butiksmedarbetare är faktiskt mycket värre än sossar...",
+            "prompt" : "Male behind store counter"
+        },
+        {
+            "namn" : "Kebabkock",
+            "beskrivning" : "Om du tycker att sossarna är dåliga, och butiksmedarbetarna är ännu värre, så har du inte sett en kebabkock. Kebabkockar är de värsta människa i orten, men är alltid trevliga på ytan. Det är som om de byter hud då de skiftar persona, och tar på sig någon form av mask. Kebabkockar är riktigt vidriga när man väl vet sanningen...",
+            "prompt" : "Man is stripping meat and is a chef"
+        },
+        {
+            "namn" : "Meckare",
+            "beskrivning" : "OJ OJ OJ! Måste mecka den! Både fordon och braj, de väntar ej på Pappa P, måste ta smeka, steka, leka, vända och tända. Vi fixar upp den och röker upp den.",
+            "prompt" : "Male mechanic and is smoking"
+        },
+        {
+            "namn" : "Gaming Proffs",
+            "beskrivning" : "Ett Gaming Proffs är faktiskt mycket värre än ni kanske tror. Det är en sysselsättning för personer med kolsvarta hjärtan. I det jobbet har man oftast en mörk, negativ syn på människor och det lealösa livet som gör att man bara önskar att allt ska förgås.",
+            "prompt" : "Man gaming with a portable laptop"
+        },
+        {
+            "namn" : "Slapper",
+            "beskrivning" : "En slapper är en musiker som aldrig gör något annat än att slappa! Det spelar ingen roll om hen är på en konsert eller inte, hen skiter i det och bara slappar! Hen är lite trött men inte för trött på musiken!",
+            "prompt" : "Man with baggy clothes holding an electric bas"
+        },
+        {
+            "namn" : "Porrskådespelare",
+            "beskrivning" : "Ursprungligen en uppkommande filmstjärna, Porrskådisen övergav sin forna väg och påbörjade en mycket svårare. I en plats fylld av kameror, slavar, mästare, och fiender likt: brottare, idoler, muskelknuttar: porrskådisen måste träna hårdare än någon annan.",
+            "prompt" : "Man with large muscles and black pants"
+        },
+        {
+            "namn" : "Brottare",
+            "beskrivning" : "En brottare har överkommit hundratals turneringar, besegrat all motståndare, och sitter nu i väntan på något mer… något kraftfullare… De väntar i omklädningsrummen, efter sin chans att få känna adrenalinet rusa.",
+            "prompt" : "Male in locker room posing like a JoJo character"
+        },
+        {
+            "namn" : "Kung",
+            "beskrivning" : "Man kan tro att kungar är ädla män som tjänar sitt folk. Men skenet bedrar. Född i sin ätt, de avskys av den moderna världen. Inga krig att hänföra, utan de ska endast vara en diplomatisk symbol av nationens arv. NEJ! INTE LÄNGRE! Kungar blir till personer fyllda av mörkt hat, som endast ser världen som en mörk skapelse att utnyttja för sin egna skull. De vill skapa sina stater av kaos, och skulle bränna världen i kaos och ilska för att få mer makt.",
+            "prompt" : "Swedish king with crown and nice clothes"
+        },
+        {
+            "namn" : "Donken Chef",
+            "beskrivning" : "Donken Chef är personer ursprungligen fyllda med hopp och mod. Började från botten, med ambitionen att nå toppen. De har kontroll över sin lokal, och kan anpassa sitt arbete lite hur de vill. Men… nu står de i en värld fylld av sliskig mat, svettiga kockar och barn som spyr. Var det här det som de sökte efter?",
+            "prompt" : "Male working at McDonalds as a higher up"
+        },
+        {
+            "namn" : "Pantsamlare",
+            "beskrivning" : "Pantsamlare har ett väldigt viktigt jobb, vilket är att hitta pantflaskor som skräpar ned i naturen. De söker nära och fjärran efter panten, och går till extrema längder för att slutföra sitt uppdrag. Ibland hittar de även juveler och skatter i flaskorna...",
+            "prompt" : "Male walking around collecting cans from the ground"
+        },
+        {
+            "namn" : "E-Girl",
+            "beskrivning" : "Det är tjejer som är extremt jobbiga. De är egentligen bara en avancerad form av troll. De är extremt bra på att manipulera sina följande. De har ofta ett väldigt snuskigt förflutna - och de vet om det. De försöker alltid glömma bort den, men det förflutna kommer alltid tillbaka på ett eller annat sätt. De streamer ofta på nätet som ger dem pengar från kuckar. Det är ett väldigt bra jobb, eftersom man får pengar utan att göra något. Men vem säger att endast tjejer är E-Girls...",
+            "prompt" : "Female streaming in front of computer"
+        },
+        {
+            "namn" : "Exorcist",
+            "beskrivning" : "En Exorcist är en präst som utför utdrivande ritualer på personer besatta av onda andar och demoner. Det är ett mycket tufft jobb, eftersom demoner och onda andar ofta är väldigt aggressiva, och därför är det väldigt vanligt att exorcister blir dödade på jobbet. Det är väldigt jobbigt att vara besatt, men det är också väldigt jobbigt att bli exorcist. De som hittar ingången till källaren blir ofta mörka i själ, och till slut ondare än de mörka andar de försöker jaga.",
+            "prompt" : "Priest exorcising a demon in a church"
+        },
+        {
+            "namn" : "Människohandlare",
+            "beskrivning" : "Det är en riktigt ful och hemsk sysselsättning. De tar personer, sätter dem i burar, och säljer sedan bur och person. De säljer och köper människor samt transporterar dem runt världen. Det är ett väldigt häftigt jobb som är väldigt lönsamt, men det är extremt jobbigt då man konstant måste förtrycka personer, vilket gör att många människohandlare blir mentalt sjuka och måste sjukskriva sig själva längre än en vecka.",
+            "prompt" : "Sketchy man in hooded clothes holding loads of gold"
+        },
+        {
+            "namn" : "President",
+            "beskrivning" : "Det är en person som är vald till att leda ett land och vara dess ledare. Oftast sker det för att Redditörer skapade memes om dig. Det är mycket spännande, eftersom man får styra och bestämma lite hur man vill. Det är ofta mycket stress p.g.a. hemligheter, dolda livvakter och lönnmördare överallt, men det kan också vara kul då jobbet är kravlöst så du har frihet att gå och spela golf och strypa hor-.",
+            "prompt" : "President waving at a large crowd"
+        }
+
+    ],
+    "hobby" : [
+        {
+            "namn" : "Mansplainer",
+            "handikapp" : [
+                {
+                    "namn" : "Incel"
+                },
+                {
+                    "namn" : "Överviktig"
+                },
+                {
+                    "namn" : "Sexist"
+                }
+            ]
+        },
+        {
+            "namn" : "Snusfilosof",
+            "handikapp" : [
+                {
+                    "namn" : "Tobakshandlare"
+                },
+                {
+                    "namn" : "Schizofren"
+                },
+                {
+                    "namn" : "Klaustrofobisk"
+                }
+            ]
+        },
+        {
+            "namn" : "Weeaboo",
+            "handikapp" : [
+                {
+                    "namn" : "Schizofren"
+                },
+                {
+                    "namn" : "Nörd"
+                },
+                {
+                    "namn" : "Incel"
+                }
+            ]
+        },
+        {
+            "namn" : "Simp",
+            "handikapp" : [
+                {
+                    "namn" : "Incel"
+                },
+                {
+                    "namn" : "Överviktig"
+                },
+                {
+                    "namn" : "Besatt"
+                }
+            ]
+        },
+        {
+            "namn" : "Gymråtta",
+            "handikapp" : [
+                {
+                    "namn" : "LoL-spelare"
+                },
+                {
+                    "namn" : "Aggressionsproblem"
+                },
+                {
+                    "namn" : "Svagt hjärta"
+                }
+            ]
+        },
+        {
+            "namn" : "Redditör",
+            "handikapp" : [
+                {
+                    "namn" : "Incel"
+                },
+                {
+                    "namn" : "CP"
+                },
+                {
+                    "namn" : "Besatt"
+                }
+            ]
+        },
+        {
+            "namn" : "Rasbiolog",
+            "handikapp" : [
+                {
+                    "namn" : "Rasist"
+                },
+                {
+                    "namn" : "Grov fobi"
+                },
+                {
+                    "namn" : "Nybörjarmisstag"
+                }
+            ]
+        },
+        {
+            "namn" : "Mobbare",
+            "handikapp" : [
+                {
+                    "namn" : "Gigantism"
+                },
+                {
+                    "namn" : "Aggressionsproblem"
+                },
+                {
+                    "namn" : "PTSD"
+                }
+            ]
+        },
+        {
+            "namn" : "Hacker",
+            "handikapp" : [
+                {
+                    "namn" : "ADHD"
+                },
+                {
+                    "namn" : "Underviktig"
+                },
+                {
+                    "namn" : "Har en tå som aldrig vuxit ut"
+                }
+            ]
+        }
+    ],
+    "etnicitet" : [
+        {
+            "namn" : "Skandinavisk",
+            "prompt" : "Scandinavian"
+        },
+        {
+            "namn" : "Amerikansk",
+            "prompt" : "American"
+        },
+        {
+            "namn" : "Slavisk",
+            "prompt" : "Slavic"
+        },
+        {
+            "namn" : "Britt",
+            "prompt" : "British"
+        },
+        {
+            "namn" : "Japan",
+            "prompt" : ""
+        },
+        {
+            "namn" : "Spansk",
+            "prompt" : "Spanish"
+        },
+        {
+            "namn" : "Kinesisk",
+            "prompt" : "Chinese"
+        },
+        {
+            "namn" : "Albansk",
+            "prompt" : "Albanian"
+        },
+        {
+            "namn" : "Samisk",
+            "prompt" : "Lappish"
+        },
+        {
+            "namn" : "Guadeloupes",
+            "prompt" : "Guadeloupean"
+        }
+    ],
+    "religion" : [
+        {
+            "namn" : "Asatroende"
+        },
+        {
+            "namn" : "Alanist"
+        },
+        {
+            "namn" : "Atheist"
+        },
+        {
+            "namn" : "Bahá'í"
+        },
+        {
+            "namn" : "Druid"
+        },
+        {
+            "namn" : "Muslim"
+        },
+        {
+            "namn" : "Satanist"
+        },
+        {
+            "namn" : "Kristen"
+        },
+        {
+            "namn" : "Zunist"
+        },
+        {
+            "namn" : "Shintoism"
+        },
+        {
+            "namn" : "Voodoo"
+        },
+        {
+            "namn" : "Jude"
+        },
+        {
+            "namn" : "Kinesisk Shamanism"
+        },
+        {
+            "namn" : "Pastafarianism"
+        },
+        {
+            "namn" : "Buddhist"
+        },
+        {
+            "namn" : "Zoroastrianism"
+        }
+    ]
+}
