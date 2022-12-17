@@ -37,9 +37,9 @@
                     beskrivning:sysslaTemp.beskrivning
                 }
 
-                let prompt = result.data.sysslor[syIndex].prompt + ", is " + result.data.etnicitet[etIndex].prompt + ", grim, realistic, 4k";
+                /* let prompt = result.data.sysslor[syIndex].prompt + ", is " + result.data.etnicitet[etIndex].prompt + ", grim, realistic, 4k";
                 console.log(prompt);
-                generateImageRequest(prompt);
+                generateImageRequest(prompt);  add later */
             });
         }
 
