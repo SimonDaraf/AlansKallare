@@ -10,7 +10,7 @@
     function KarController(KarService) {
         var kar = this;
         kar.character = {};
-        kar.version = "1.1.0";
+        kar.version = "1.2.0";
 
         kar.submit = function() {
             kar.completed = true;
@@ -43,7 +43,7 @@
             });
         }
 
-        async function generateImageRequest(prompt) {
+        /* async function generateImageRequest(prompt) {
             try {
                 const response = await fetch('/openai/generateimage', {
                     method: 'POST',
@@ -68,7 +68,7 @@
             } catch (error) {
                 
             }
-        }
+        } */
     }
 
     KarService.$inject = ['$http'];

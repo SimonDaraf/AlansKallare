@@ -253,6 +253,286 @@
                     "namn" : "Har en tå som aldrig vuxit ut"
                 }
             ]
+        },
+        {
+            "namn" : "Poet",
+            "handikapp" : [
+                {
+                    "namn" : "Mytoman"
+                },
+                {
+                    "namn" : "Trubbigt skägg"
+                },
+                {
+                    "namn" : "Otrevlig"
+                }
+            ]
+        },
+        {
+            "namn" : "DnD Spelare",
+            "handikapp" : [
+                {
+                    "namn" : "Nörd"
+                },
+                {
+                    "namn" : "Cringe"
+                },
+                {
+                    "namn" : "Socialt pinsam"
+                }
+            ]
+        },
+        {
+            "namn" : "Jihadist",
+            "handikapp" : [
+                {
+                    "namn" : "Sargad"
+                },
+                {
+                    "namn" : "Enarmad"
+                },
+                {
+                    "namn" : "Sexist"
+                }
+            ]
+        },
+        {
+            "namn" : "Kvinnohatare",
+            "handikapp" : [
+                {
+                    "namn" : "Sexist"
+                },
+                {
+                    "namn" : "Aggressionsproblem"
+                },
+                {
+                    "namn" : "Mentalt 10 år"
+                }
+            ]
+        },
+        {
+            "namn" : "Zoomer",
+            "handikapp" : [
+                {
+                    "namn" : "Mentalt 10 år"
+                },
+                {
+                    "namn" : "Liten haka"
+                },
+                {
+                    "namn" : "Cringe"
+                }
+            ]
+        },
+        {
+            "namn" : "Fiskare",
+            "handikapp" : [
+                {
+                    "namn" : "Utfattig"
+                },
+                {
+                    "namn" : "Solbränd"
+                },
+                {
+                    "namn" : "Analfabet"
+                }
+            ]
+        },
+        {
+            "namn" : "Boomer",
+            "handikapp" : [
+                {
+                    "namn" : "Rasist"
+                },
+                {
+                    "namn" : "Sexist"
+                },
+                {
+                    "namn" : "Socialt pinsam"
+                }
+            ]
+        },
+        {
+            "namn" : "Skuggvän",
+            "handikapp" : [
+                {
+                    "namn" : "Efemär"
+                },
+                {
+                    "namn" : "Asocial"
+                },
+                {
+                    "namn" : "Blek"
+                }
+            ]
+        },
+        {
+            "namn" : "Hemvärnssoldat",
+            "handikapp" : [
+                {
+                    "namn" : "PTSD"
+                },
+                {
+                    "namn" : "Alkoholist"
+                },
+                {
+                    "namn" : "Ärrad"
+                }
+            ]
+        },
+        {
+            "namn" : "Svea-historiker",
+            "handikapp" : [
+                {
+                    "namn" : "Übersexig"
+                },
+                {
+                    "namn" : "Gigantism"
+                },
+                {
+                    "namn" : "Självkritisk"
+                }
+            ]
+        },
+        {
+            "namn" : "Musiker",
+            "handikapp" : [
+                {
+                    "namn" : "Lågt blodsocker"
+                },
+                {
+                    "namn" : "Knarkoman"
+                },
+                {
+                    "namn" : "Stukad fot"
+                }
+            ]
+        },
+        {
+            "namn" : "Lingvist",
+            "handikapp" : [
+                {
+                    "namn" : "Sodomist"
+                },
+                {
+                    "namn" : "Schizofren"
+                },
+                {
+                    "namn" : "Trist"
+                }
+            ]
+        },
+        {
+            "namn" : "Coomer",
+            "handikapp" : [
+                {
+                    "namn" : "Tre bröstvårtor"
+                },
+                {
+                    "namn" : "Besatt"
+                },
+                {
+                    "namn" : "ADHD"
+                }
+            ]
+        },
+        {
+            "namn" : "Källar-utforskare",
+            "handikapp" : [
+                {
+                    "namn" : "Dvärgism"
+                },
+                {
+                    "namn" : "Komapatient"
+                },
+                {
+                    "namn" : "Trefingrad"
+                }
+            ]
+        },
+        {
+            "namn" : "Alkemist",
+            "handikapp" : [
+                {
+                    "namn" : "Barkhud"
+                },
+                {
+                    "namn" : "Återvände till apa"
+                },
+                {
+                    "namn" : "Underviktig"
+                }
+            ]
+        },
+        {
+            "namn" : "K-pop Stan",
+            "handikapp" : [
+                {
+                    "namn" : "Liten haka"
+                },
+                {
+                    "namn" : "Besatt"
+                },
+                {
+                    "namn" : "LoL-spelare"
+                }
+            ]
+        },
+        {
+            "namn" : "Social-kredit farmare",
+            "handikapp" : [
+                {
+                    "namn" : "Senil"
+                },
+                {
+                    "namn" : "Otrevlig"
+                },
+                {
+                    "namn" : "Gigantism"
+                }
+            ]
+        },
+        {
+            "namn" : "Racer",
+            "handikapp" : [
+                {
+                    "namn" : "Hybris"
+                },
+                {
+                    "namn" : "Alkoholist"
+                },
+                {
+                    "namn" : "PTSD"
+                }
+            ]
+        },
+        {
+            "namn" : "Internettroll",
+            "handikapp" : [
+                {
+                    "namn" : "Autistisk"
+                },
+                {
+                    "namn" : "Återvände till apa"
+                },
+                {
+                    "namn" : "CP"
+                }
+            ]
+        },
+        {
+            "namn" : "Trollkarl",
+            "handikapp" : [
+                {
+                    "namn" : "Grov fobi"
+                },
+                {
+                    "namn" : "Mytoman"
+                },
+                {
+                    "namn" : "Tobaksberoende"
+                }
+            ]
         }
     ],
     "etnicitet" : [
@@ -295,6 +575,84 @@
         {
             "namn" : "Guadeloupes",
             "prompt" : "Guadeloupean"
+        },
+        {
+            "namn" : "Grekisk"
+        },
+        {
+            "namn" : "Afrikan"
+        },
+        {
+            "namn" : "Akan"
+        },
+        {
+            "namn" : "Arabisk"
+        },
+        {
+            "namn" : "Turkisk"
+        },
+        {
+            "namn" : "Basque"
+        },
+        {
+            "namn" : "Koptisk"
+        },
+        {
+            "namn" : "Polack"
+        },
+        {
+            "namn" : "Somalisk"
+        },
+        {
+            "namn" : "Italiensk"
+        },
+        {
+            "namn" : "Tysk"
+        },
+        {
+            "namn" : "Cornsk"
+        },
+        {
+            "namn" : "Egyptisk"
+        },
+        {
+            "namn" : "Iranier"
+        },
+        {
+            "namn" : "Kurdisk"
+        },
+        {
+            "namn" : "Fransk"
+        },
+        {
+            "namn" : "Georgier"
+        },
+        {
+            "namn" : "Kwakwaka'wakw"
+        },
+        {
+            "namn" : "Pakistansk"
+        },
+        {
+            "namn" : "Indisk"
+        },
+        {
+            "namn" : "Walla Walla"
+        },
+        {
+            "namn" : "Zaghawa"
+        },
+        {
+            "namn" : "Zulu"
+        },
+        {
+            "namn" : "Sirenik"
+        },
+        {
+            "namn" : "Mongolisk"
+        },
+        {
+            "namn" : "Australiensare"
         }
     ],
     "religion" : [
@@ -345,6 +703,33 @@
         },
         {
             "namn" : "Zoroastrianism"
+        },
+        {
+            "namn" : "Kushitist"
+        },
+        {
+            "namn" : "Faraohism"
+        },
+        {
+            "namn" : "Dualist"
+        },
+        {
+            "namn" : "Bori"
+        },
+        {
+            "namn" : "Pantheism"
+        },
+        {
+            "namn" : "Sol-Templar"
+        },
+        {
+            "namn" : "Himla-grindens Sekt"
+        },
+        {
+            "namn" : "Rosicrucianism"
+        },
+        {
+            "namn" : "Illuminati"
         }
     ]
 }
